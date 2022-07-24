@@ -4,3 +4,5 @@ It is an easy .exe file which basically gives Football news from thesun.co.uk/fo
 I made this using Python language with help of few Python libraries.
 I learned about Libraries like Selenium and ChromeDriver.
 I made this small program in guidance of www.freecodecamp.org.
+
+You just have to convert the python script into .exe file :)
